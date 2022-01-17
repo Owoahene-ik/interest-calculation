@@ -1,0 +1,20 @@
+{
+  "name": "interest-calculation",
+  "version": "1.0.0",
+  "description": "this api is to calculate the interest a customer will earn when invests money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install @hapi/hapi"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/vision": "^6.1.0",
+    "joi": "^17.5.0"
+  }
+}
